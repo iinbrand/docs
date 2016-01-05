@@ -8,7 +8,7 @@ Introduction for **iinbrand** and issues here.
 
 ---
 
-## Guild
+## Guide
 
 - Read the [Installation Guide](http://flarum.org/docs/installation) for more information.
 
