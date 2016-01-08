@@ -49,8 +49,3 @@ comming Soon..
 ---
 
 © 2016 [iinbrand.](https://iinbrand.com)
-
-
-## Core Team
-
-- Fromz Prajuktar ([GitHub](http://github.com/pkfrom), [Twitter](http://twitter.com/pkfrom)) – Core Developer
