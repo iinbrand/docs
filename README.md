@@ -62,6 +62,12 @@ Demo | http://demo.iinbrand.com |
 
 comming Soon..
 
+## Team
+
+- Prajuktar Kaewmanee (Fromz) ([GitHub](http://github.com/pkfrom), [Twitter](http://twitter.com/pkfrom)) – Core Developer
+- Attapong Jakkrawantanarak (Ton) - iOS Developer
+- Pakkapon Jirachatmongkon (May) - Andriod Developer
+
 [link-docs]: #
 [link-faq]: #
 [link-info]: #
