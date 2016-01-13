@@ -1,8 +1,4 @@
----
-layout: docs
-title: Troubleshooting
-permalink: /docs/troubleshooting/
----
+#Troubleshooting
 
 ## Step 1: Turn on debug mode.
 

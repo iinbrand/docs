@@ -1,21 +1,15 @@
----
-layout: docs
-title: Introduction
-permalink: /docs/
----
+# Introduction
 
-Introduction for iinbrand and issues here.
-----
 
 ## All URL
 
 Domain | Link | Build
 ------- | ---------------- | ---------- | 
-Official website  |[iinbrand.com][url-iinbrand] |
+Official website  |[iinbrand.com][url-iinbrand] | 
 API Server | [api.iinbrand.com][url-api] | ![build-api-codeship] ![build-api-travis]
-URL Shorthen  | [iinb.ga][url-short]        |
+URL Shorthen  | [iinb.ga][url-short] | 
 CDN | [cdn.iinb.ga][url-cdn] | 
-Demo | [demo.iinbrand.com][url-demo] |
+Demo | [demo.iinbrand.com][url-demo] | 
 
 ---
 

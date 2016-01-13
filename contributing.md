@@ -1,9 +1,4 @@
----
-layout: docs
-title: Contributing
-permalink: /docs/contributing/
----
-## Contribution Guide
+# Contribution Guide
 
 This project adheres to the following standards and practices.
 
